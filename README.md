@@ -1,3 +1,3 @@
-# my_projects
-projects
-This repository contains some of the relevant projects related to data analysis that I have done so far.
+# Client Diagnosis support system using Association Rule Mining
+Tools & Technology: Python, HTML, JQuery
+A website for predicting the diagnosis using the associated symptoms that occur frequently using apriority algorithm on a real time dataset with more than a million rows.
